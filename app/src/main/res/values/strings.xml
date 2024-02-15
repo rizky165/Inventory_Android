@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Inventory Apps</string>
+    <string-array name="kategori_list">
+        <item>Bakso</item>
+        <item>Ayam Goreng</item>
+        <item>Mie Rebus</item>
+        <item>Nasi Padang</item>
+        <item>Ikan Bakar</item>
+        <item>Seblak</item>
+        <item>Gorengan</item>
+        <item>Mie Ayam</item>
+    </string-array>
+</resources>
